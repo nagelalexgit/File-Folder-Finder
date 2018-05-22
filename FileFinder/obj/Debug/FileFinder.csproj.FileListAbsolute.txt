@@ -1,0 +1,9 @@
+c:\users\an\documents\visual studio 2015\Projects\FileFinder\FileFinder\bin\Debug\FileFinder.exe.config
+c:\users\an\documents\visual studio 2015\Projects\FileFinder\FileFinder\bin\Debug\FileFinder.exe
+c:\users\an\documents\visual studio 2015\Projects\FileFinder\FileFinder\bin\Debug\FileFinder.pdb
+c:\users\an\documents\visual studio 2015\Projects\FileFinder\FileFinder\obj\Debug\FileFinder.csprojResolveAssemblyReference.cache
+c:\users\an\documents\visual studio 2015\Projects\FileFinder\FileFinder\obj\Debug\FileFinder.Main.resources
+c:\users\an\documents\visual studio 2015\Projects\FileFinder\FileFinder\obj\Debug\FileFinder.Properties.Resources.resources
+c:\users\an\documents\visual studio 2015\Projects\FileFinder\FileFinder\obj\Debug\FileFinder.csproj.GenerateResource.Cache
+c:\users\an\documents\visual studio 2015\Projects\FileFinder\FileFinder\obj\Debug\FileFinder.exe
+c:\users\an\documents\visual studio 2015\Projects\FileFinder\FileFinder\obj\Debug\FileFinder.pdb
